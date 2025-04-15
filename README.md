@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dipu-dev-hub
+- 👋 Hi, I’m @dipu_webdeveloper
 - 👀 I’m interested in Coding, Accounting and Technology
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Developers
+- 💞️ I’m looking to collaborate with Developers
 - 📫 How to reach me @DM
 - 😄 Pronouns: Dhi-pu
 - ⚡ Fun fact: I love code more than my Beloved 
